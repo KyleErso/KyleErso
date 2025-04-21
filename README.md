@@ -18,19 +18,19 @@
 
 ### 📊 GitHub Stats
 
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evankristian03&show_icons=true&theme=radical)
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyleErso&show_icons=true&theme=radical)
 
 ### 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evankristian03&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleErso&layout=compact&theme=radical)
 
 ### 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=evankristian03&theme=radical&row=1&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=KyleErso&theme=radical&row=1&margin-w=10)
 
 ### 🌍 Visitor Count
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=evankristian03&color=blue&style=flat-square)
+![Visitor Badge](https://komarev.com/ghpvc/?username=KyleErso&color=blue&style=flat-square)
 
 ---
 
